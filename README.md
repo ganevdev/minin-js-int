@@ -1,6 +1,6 @@
-# Template Nodejs
+# Minin js int
 
-My personal nodejs template
+Based on video https://www.youtube.com/watch?v=M_pclb-58ZY
 
 Main repo: https://github.com/Ganevru/templates
 
